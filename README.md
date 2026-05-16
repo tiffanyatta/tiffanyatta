@@ -1,7 +1,7 @@
 👋 Hi, I'm Tiffany Atta!
 🎓 Incoming Junior at NYU College of Arts and Science, pursuing a B.A. in Computer and Data Science (transferring from Wentworth Institute of Technology where I studied Computer Science and Project Managment for my freshman and somphmore year)
 🌱 Aspiring Software Engineer & AI/ML Researcher passionate about ethical innovation, tech policy, and building technology that uplifts marginalized communities
-✨ I love working at the intersection of AI, social impact, and policy — using code to tackle real-world problems in renewable energy, wellness, and equitable access to technology.
+✨ I love working at the intersection of AI, social impact, and policy, using code to tackle real-world problems in renewable energy, wellness, and equitable access to technology.
 Currently, I'm:
 
 🤖 A Break Through Tech AI Fellow (Cornell Tech) building skills in neural networks, computer vision, and applied ML
